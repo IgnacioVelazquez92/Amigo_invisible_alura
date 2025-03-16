@@ -21,7 +21,7 @@ Este proyecto consiste en una interfaz simple donde se puede:
 1. **Clona este repositorio:**
 
 ```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/IgnacioVelazquez92/Amigo_invisible_alura.git
 ```
 
 2. **Abre el archivo HTML:**
